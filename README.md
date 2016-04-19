@@ -2,14 +2,24 @@
 
 1. Paper-Note
 
-       1. Automatic Image Annotation using Deep Learning Representations
-           1. Deep Convolutional Ranking for Multilabel Image Annotation
-              1. Deep Multiple Instance Learning for Image Classification and Auto-Annotation
-              2. Image Annotation by Exploiting Image Metadata
-              3. Large-Scale Image Annotation using Visual Synset
-              4. NMF-KNN- Image Annotation using Weighted Multi-view Non-negative Matrix Factorization
-              5. Translating Topics to Words for Image Annotation
-              6. Probabilistic Latent Sematic Index
+   1. Automatic Image Annotation using Deep Learning Representations
+
+   2. Deep Convolutional Ranking for Multilabel Image Annotation
+
+   3. Deep Multiple Instance Learning for Image Classification and Auto-Annotation
+
+   4. Image Annotation by Exploiting Image Metadata
+
+   5. Large-Scale Image Annotation using Visual Synset
+
+   6. NMF-KNN- Image Annotation using Weighted Multi-view Non-negative Matrix Factorization
+
+   7. Translating Topics to Words for Image Annotation
+
+   8. Probabilistic Latent Sematic Index
+
+      ​
+
 
 2. Sources
 
